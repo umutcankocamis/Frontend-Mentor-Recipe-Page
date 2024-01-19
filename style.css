@@ -50,6 +50,11 @@ body {
   text-indent: 30px;
   line-height: 34px;
   margin-bottom: 35px;
+  color: hsl(30, 10%, 34%);
+}
+.preparation-step {
+  font-weight: 700;
+  color: hsl(30, 10%, 34%);
 }
 
 h2 {
